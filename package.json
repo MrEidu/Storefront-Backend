@@ -1,5 +1,5 @@
 {
-  "name": "angel",
+  "name": "storefront-backend",
   "version": "1.0.0",
   "description": "Storefront Backend Udacity Project",
   "main": "index.js",
@@ -13,7 +13,7 @@
   "author": "Angel Eidu Macias Saenz",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/MrEidu/Storefront-Backend-Udacity-Project/issues"
+    "url": "https://github.com/MrEidu/Storefront-Backend/issues"
   },
-  "homepage": "https://github.com/MrEidu/Storefront-Backend-Udacity-Project#readme"
+  "homepage": "https://github.com/MrEidu/Storefront-Backend#readme"
 }
